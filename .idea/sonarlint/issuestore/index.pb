@@ -42,3 +42,5 @@ Gsrc/main/java/tn/esprit/eventsproject/repositories/EventRepository.java,5\c\5c
 Msrc/main/java/tn/esprit/eventsproject/repositories/ParticipantRepository.java,2\e\2e2c0b1c1b37c657bd43d456bd1d788fa36cd734
 u
 Esrc/test/java/tn/esprit/eventsproject/ParticipantServiceImplMock.java,9\c\9c93204eb50b1e4c1191c7bacf9ec5c8306a7ea3
+A
+eventsProject.iml,e\e\eeae52d0692169586177fa3e21caa82c4b50a76a

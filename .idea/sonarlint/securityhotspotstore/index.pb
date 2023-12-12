@@ -1,12 +1,4 @@
 
-Å
-QeventsProject/src/main/java/tn/esprit/eventsproject/EventsProjectApplication.java,7\0\70b1af18414be073da9297809b9bbc071148b814
-E
-eventsProject/pom.xml,7\0\700104ac2aa82df6b465d4573f4a2ecde63a9ba0
-g
-7eventsProject/src/main/resources/application.properties,f\8\f8d5d08dbfa432ee1ca2ba98a2e50e20616eeedb
-P
- eventsProject/release.properties,c\5\c5bca216b5b42ed24d5f86c9651b7ffb1656f17b
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 u
@@ -50,3 +42,5 @@ z
 Jsrc/main/java/tn/esprit/eventsproject/controllers/EventRestController.java,f\8\f8401b96807c5522b6ac33c6a050932a0239b615
 u
 Esrc/test/java/tn/esprit/eventsproject/ParticipantServiceImplMock.java,9\c\9c93204eb50b1e4c1191c7bacf9ec5c8306a7ea3
+A
+eventsProject.iml,e\e\eeae52d0692169586177fa3e21caa82c4b50a76a
